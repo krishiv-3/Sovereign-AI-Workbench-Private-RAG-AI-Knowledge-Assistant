@@ -1,0 +1,7 @@
+flask
+langchain
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+pypdf
+pandas
